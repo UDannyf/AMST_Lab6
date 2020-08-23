@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "164737807934",
+    "firebase_url": "https://practica-de-laboratorio-6.firebaseio.com",
+    "project_id": "practica-de-laboratorio-6",
+    "storage_bucket": "practica-de-laboratorio-6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164737807934:android:8de0ef83d0e59e8ecb436f",
+        "android_client_info": {
+          "package_name": "com.example.comamstgrupo3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164737807934-bgojer9jm48u0vd1mder6b50ltlb4nl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeMw4ynmSPC8SWuyF17UYp5S6pk2m7ozo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164737807934-bgojer9jm48u0vd1mder6b50ltlb4nl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164737807934:android:18ad058955ad7647cb436f",
+        "android_client_info": {
+          "package_name": "com.example.pushnotifications"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164737807934-laqalg5ehccdrv0km2p68uoniph2lngs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pushnotifications",
+            "certificate_hash": "ad5db2e7d3539c5683c453d9b604e48899d4b93b"
+          }
+        },
+        {
+          "client_id": "164737807934-bgojer9jm48u0vd1mder6b50ltlb4nl7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeMw4ynmSPC8SWuyF17UYp5S6pk2m7ozo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164737807934-bgojer9jm48u0vd1mder6b50ltlb4nl7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
